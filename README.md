@@ -8,4 +8,4 @@ Report Data Analysis you can find all details related to the code and the projec
 
 Housing Data Analysis & Modeling - Data Analysis in detail.
 
-Note: The dataset was needed to be zipped to be able to upload to GitHub.
+Note: The dataset was compressed (zipped) to be able to upload to GitHub.
